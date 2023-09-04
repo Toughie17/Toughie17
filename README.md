@@ -1,5 +1,4 @@
 <div align="center"> 
-<img src="https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-147EFB?style=for-the-badge&logo=python&logoColor=white"/>
