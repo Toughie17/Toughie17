@@ -7,7 +7,8 @@
 ### Interested in
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=C&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=C&logoColor=white"/><br>
+<br>
 
 ![Toughie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toughie17&show_icons=true&theme=react) 
  
