@@ -2,7 +2,6 @@
   
 ### Growing as a Finance Developer 📈 💻
 <br>
-<br>
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-147EFB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
