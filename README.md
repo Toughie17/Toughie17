@@ -1,5 +1,7 @@
 <div align="center"> 
-금융 개발자의 길을 걸어가고 있습니다. 📈 💻 <br>
+  
+### Growing as a Finance Developer 📈 💻
+<br>
 <br>
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-147EFB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -8,6 +10,7 @@
 
 ### Interested in
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=C&logoColor=white"/><br>
 <br>
