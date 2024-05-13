@@ -1,17 +1,17 @@
 <div align="center"> 
-  
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TOUGHIE&fontSize=70)
 ### Growing as a Finance Developer 📈 💻
 <br>
+
+### Interestd in
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/objectiveC-E8DAFC?style=for-the-badge&logo=apple&logoColor=9585AA"/>
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/objectiveC-E8DAFC?style=for-the-badge&logo=apple&logoColor=9585AA"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-147EFB?style=for-the-badge&logo=python&logoColor=white"/>
-
-### Interested in
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/oracle-DE2525?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=C&logoColor=white"/><br>
 <br>
 
