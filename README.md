@@ -1,7 +1,8 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TOUGHIE&fontSize=70)
-### Finance Mobile App Developer 📈 💻 📱
+
+### Finance Mobile App Developer 📈 💻 📱 <img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/>
 <br>
 
 ### Interestd in
