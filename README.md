@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=TOUGHIE&fontSize=70)
 
-### Finance Mobile App Developer 📈 💻 📱 <img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/>
+### Finance Mobile App Developer 📈 💻 📱 <img src="https://github.com/Toughie17/Toughie17/assets/99641242/87f82189-2fe7-4299-ac17-778dbf4cf147" style="height: 40px"/>
 <br>
 
 ### Interestd in
