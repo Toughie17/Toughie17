@@ -5,9 +5,12 @@
 ### Finance Mobile App Developer 📈 💻 📱 <img src="https://github.com/Toughie17/Toughie17/assets/99641242/87f82189-2fe7-4299-ac17-778dbf4cf147" style="height: 40px"/>
 <br>
 
-### Interestd in
+### Especially Interestd in
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=#F7DF1E"/>
+
+###  I've worked with
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/objectiveC-E8DAFC?style=for-the-badge&logo=apple&logoColor=9585AA"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
